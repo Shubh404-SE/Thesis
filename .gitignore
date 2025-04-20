@@ -1,0 +1,10 @@
+# Ignore the entire brats2021 folder
+brats2021/
+
+# Ignore everything in the output folder except the features folder
+output/*
+!output/features/
+
+# # Ignore all other files in the thesis folder
+# *
+# !.gitignore

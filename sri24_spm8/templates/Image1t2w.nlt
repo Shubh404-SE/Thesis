@@ -1,0 +1,1036 @@
+# B-spline registration of Image1t2w to T2_brain
+# Number of image dimensions
+3
+# Target image resolutions
+1.0 1.0 1.0
+# Target image dimensions
+240 240 155
+# B-Spline Degree (same for all axes)
+1 1 1
+# B-Spline Control Points (same for all axes)
+8 8 8
+# Final values of control points
+# iControlX = 0 iControlY = 0 iControlZ = 0
+0.0  0.0  0.0
+# iControlX = 0 iControlY = 0 iControlZ = 1
+0.0  0.0  0.14285715
+# iControlX = 0 iControlY = 0 iControlZ = 2
+0.0  0.0  0.2857143
+# iControlX = 0 iControlY = 0 iControlZ = 3
+0.0  0.0  0.42857143
+# iControlX = 0 iControlY = 0 iControlZ = 4
+0.0  0.0  0.5714286
+# iControlX = 0 iControlY = 0 iControlZ = 5
+0.0  0.0  0.71428573
+# iControlX = 0 iControlY = 0 iControlZ = 6
+0.0  0.0  0.85714287
+# iControlX = 0 iControlY = 0 iControlZ = 7
+0.0  0.0  1.0
+# iControlX = 0 iControlY = 1 iControlZ = 0
+0.0  0.14285715  0.0
+# iControlX = 0 iControlY = 1 iControlZ = 1
+0.0  0.14285715  0.14285715
+# iControlX = 0 iControlY = 1 iControlZ = 2
+0.0  0.14285715  0.2857143
+# iControlX = 0 iControlY = 1 iControlZ = 3
+0.0  0.14285715  0.42857143
+# iControlX = 0 iControlY = 1 iControlZ = 4
+0.0  0.14285715  0.5714286
+# iControlX = 0 iControlY = 1 iControlZ = 5
+0.0  0.14285715  0.71428573
+# iControlX = 0 iControlY = 1 iControlZ = 6
+0.0  0.14285715  0.85714287
+# iControlX = 0 iControlY = 1 iControlZ = 7
+0.0  0.14285715  1.0
+# iControlX = 0 iControlY = 2 iControlZ = 0
+0.0  0.2857143  0.0
+# iControlX = 0 iControlY = 2 iControlZ = 1
+0.0  0.2857143  0.14285715
+# iControlX = 0 iControlY = 2 iControlZ = 2
+0.0  0.2857143  0.2857143
+# iControlX = 0 iControlY = 2 iControlZ = 3
+0.0  0.2857143  0.42857143
+# iControlX = 0 iControlY = 2 iControlZ = 4
+0.0  0.2857143  0.5714286
+# iControlX = 0 iControlY = 2 iControlZ = 5
+0.0  0.2857143  0.71428573
+# iControlX = 0 iControlY = 2 iControlZ = 6
+0.0  0.2857143  0.85714287
+# iControlX = 0 iControlY = 2 iControlZ = 7
+0.0  0.2857143  1.0
+# iControlX = 0 iControlY = 3 iControlZ = 0
+0.0  0.42857143  0.0
+# iControlX = 0 iControlY = 3 iControlZ = 1
+0.0  0.42857143  0.14285715
+# iControlX = 0 iControlY = 3 iControlZ = 2
+0.0  0.42857143  0.2857143
+# iControlX = 0 iControlY = 3 iControlZ = 3
+0.0  0.42857143  0.42857143
+# iControlX = 0 iControlY = 3 iControlZ = 4
+0.0  0.42857143  0.5714286
+# iControlX = 0 iControlY = 3 iControlZ = 5
+0.0  0.42857143  0.71428573
+# iControlX = 0 iControlY = 3 iControlZ = 6
+0.0  0.42857143  0.85714287
+# iControlX = 0 iControlY = 3 iControlZ = 7
+0.0  0.42857143  1.0
+# iControlX = 0 iControlY = 4 iControlZ = 0
+0.0  0.5714286  0.0
+# iControlX = 0 iControlY = 4 iControlZ = 1
+0.0  0.5714286  0.14285715
+# iControlX = 0 iControlY = 4 iControlZ = 2
+0.0  0.5714286  0.2857143
+# iControlX = 0 iControlY = 4 iControlZ = 3
+0.0  0.5714286  0.42857143
+# iControlX = 0 iControlY = 4 iControlZ = 4
+0.0  0.5714286  0.5714286
+# iControlX = 0 iControlY = 4 iControlZ = 5
+0.0  0.5714286  0.71428573
+# iControlX = 0 iControlY = 4 iControlZ = 6
+0.0  0.5714286  0.85714287
+# iControlX = 0 iControlY = 4 iControlZ = 7
+0.0  0.5714286  1.0
+# iControlX = 0 iControlY = 5 iControlZ = 0
+0.0  0.71428573  0.0
+# iControlX = 0 iControlY = 5 iControlZ = 1
+0.0  0.71428573  0.14285715
+# iControlX = 0 iControlY = 5 iControlZ = 2
+0.0  0.71428573  0.2857143
+# iControlX = 0 iControlY = 5 iControlZ = 3
+0.0  0.71428573  0.42857143
+# iControlX = 0 iControlY = 5 iControlZ = 4
+0.0  0.71428573  0.5714286
+# iControlX = 0 iControlY = 5 iControlZ = 5
+0.0  0.71428573  0.71428573
+# iControlX = 0 iControlY = 5 iControlZ = 6
+0.0  0.71428573  0.85714287
+# iControlX = 0 iControlY = 5 iControlZ = 7
+0.0  0.71428573  1.0
+# iControlX = 0 iControlY = 6 iControlZ = 0
+0.0  0.85714287  0.0
+# iControlX = 0 iControlY = 6 iControlZ = 1
+0.0  0.85714287  0.14285715
+# iControlX = 0 iControlY = 6 iControlZ = 2
+0.0  0.85714287  0.2857143
+# iControlX = 0 iControlY = 6 iControlZ = 3
+0.0  0.85714287  0.42857143
+# iControlX = 0 iControlY = 6 iControlZ = 4
+0.0  0.85714287  0.5714286
+# iControlX = 0 iControlY = 6 iControlZ = 5
+0.0  0.85714287  0.71428573
+# iControlX = 0 iControlY = 6 iControlZ = 6
+0.0  0.85714287  0.85714287
+# iControlX = 0 iControlY = 6 iControlZ = 7
+0.0  0.85714287  1.0
+# iControlX = 0 iControlY = 7 iControlZ = 0
+0.0  1.0  0.0
+# iControlX = 0 iControlY = 7 iControlZ = 1
+0.0  1.0  0.14285715
+# iControlX = 0 iControlY = 7 iControlZ = 2
+0.0  1.0  0.2857143
+# iControlX = 0 iControlY = 7 iControlZ = 3
+0.0  1.0  0.42857143
+# iControlX = 0 iControlY = 7 iControlZ = 4
+0.0  1.0  0.5714286
+# iControlX = 0 iControlY = 7 iControlZ = 5
+0.0  1.0  0.71428573
+# iControlX = 0 iControlY = 7 iControlZ = 6
+0.0  1.0  0.85714287
+# iControlX = 0 iControlY = 7 iControlZ = 7
+0.0  1.0  1.0
+# iControlX = 1 iControlY = 0 iControlZ = 0
+0.14285715  0.0  0.0
+# iControlX = 1 iControlY = 0 iControlZ = 1
+0.14285715  0.0  0.14285715
+# iControlX = 1 iControlY = 0 iControlZ = 2
+0.14285715  0.0  0.2857143
+# iControlX = 1 iControlY = 0 iControlZ = 3
+0.14285715  0.0  0.42857143
+# iControlX = 1 iControlY = 0 iControlZ = 4
+0.14285715  0.0  0.5714286
+# iControlX = 1 iControlY = 0 iControlZ = 5
+0.14285715  0.0  0.71428573
+# iControlX = 1 iControlY = 0 iControlZ = 6
+0.14285715  0.0  0.85714287
+# iControlX = 1 iControlY = 0 iControlZ = 7
+0.14285715  0.0  1.0
+# iControlX = 1 iControlY = 1 iControlZ = 0
+0.14285715  0.14285715  0.0
+# iControlX = 1 iControlY = 1 iControlZ = 1
+0.14285715  0.14285715  0.14285715
+# iControlX = 1 iControlY = 1 iControlZ = 2
+0.14285715  0.14285715  0.2857143
+# iControlX = 1 iControlY = 1 iControlZ = 3
+0.14285715  0.14285715  0.42857143
+# iControlX = 1 iControlY = 1 iControlZ = 4
+0.14285715  0.14285715  0.5714286
+# iControlX = 1 iControlY = 1 iControlZ = 5
+0.14285715  0.14285715  0.71428573
+# iControlX = 1 iControlY = 1 iControlZ = 6
+0.14285715  0.14285715  0.85714287
+# iControlX = 1 iControlY = 1 iControlZ = 7
+0.14285715  0.14285715  1.0
+# iControlX = 1 iControlY = 2 iControlZ = 0
+0.14285715  0.2857143  0.0
+# iControlX = 1 iControlY = 2 iControlZ = 1
+0.14285715  0.2857143  0.14285715
+# iControlX = 1 iControlY = 2 iControlZ = 2
+0.14285715  0.2857143  0.2857143
+# iControlX = 1 iControlY = 2 iControlZ = 3
+0.14285715  0.2857143  0.42857143
+# iControlX = 1 iControlY = 2 iControlZ = 4
+0.14285715  0.2857143  0.5714286
+# iControlX = 1 iControlY = 2 iControlZ = 5
+0.14285715  0.2857143  0.71428573
+# iControlX = 1 iControlY = 2 iControlZ = 6
+0.14285715  0.2857143  0.85714287
+# iControlX = 1 iControlY = 2 iControlZ = 7
+0.14285715  0.2857143  1.0
+# iControlX = 1 iControlY = 3 iControlZ = 0
+0.14285715  0.42857143  0.0
+# iControlX = 1 iControlY = 3 iControlZ = 1
+0.14285715  0.42857143  0.14285715
+# iControlX = 1 iControlY = 3 iControlZ = 2
+0.14285715  0.42857143  0.2857143
+# iControlX = 1 iControlY = 3 iControlZ = 3
+0.14285715  0.42857143  0.42857143
+# iControlX = 1 iControlY = 3 iControlZ = 4
+0.14285715  0.42857143  0.5714286
+# iControlX = 1 iControlY = 3 iControlZ = 5
+0.14285715  0.42857143  0.71428573
+# iControlX = 1 iControlY = 3 iControlZ = 6
+0.14285715  0.42857143  0.85714287
+# iControlX = 1 iControlY = 3 iControlZ = 7
+0.14285715  0.42857143  1.0
+# iControlX = 1 iControlY = 4 iControlZ = 0
+0.14285715  0.5714286  0.0
+# iControlX = 1 iControlY = 4 iControlZ = 1
+0.14285715  0.5714286  0.14285715
+# iControlX = 1 iControlY = 4 iControlZ = 2
+0.14285715  0.5714286  0.2857143
+# iControlX = 1 iControlY = 4 iControlZ = 3
+0.14285715  0.5714286  0.42857143
+# iControlX = 1 iControlY = 4 iControlZ = 4
+0.14285715  0.5714286  0.5714286
+# iControlX = 1 iControlY = 4 iControlZ = 5
+0.14285715  0.5714286  0.71428573
+# iControlX = 1 iControlY = 4 iControlZ = 6
+0.14285715  0.5714286  0.85714287
+# iControlX = 1 iControlY = 4 iControlZ = 7
+0.14285715  0.5714286  1.0
+# iControlX = 1 iControlY = 5 iControlZ = 0
+0.14285715  0.71428573  0.0
+# iControlX = 1 iControlY = 5 iControlZ = 1
+0.14285715  0.71428573  0.14285715
+# iControlX = 1 iControlY = 5 iControlZ = 2
+0.14285715  0.71428573  0.2857143
+# iControlX = 1 iControlY = 5 iControlZ = 3
+0.14285715  0.71428573  0.42857143
+# iControlX = 1 iControlY = 5 iControlZ = 4
+0.14285715  0.71428573  0.5714286
+# iControlX = 1 iControlY = 5 iControlZ = 5
+0.14285715  0.71428573  0.71428573
+# iControlX = 1 iControlY = 5 iControlZ = 6
+0.14285715  0.71428573  0.85714287
+# iControlX = 1 iControlY = 5 iControlZ = 7
+0.14285715  0.71428573  1.0
+# iControlX = 1 iControlY = 6 iControlZ = 0
+0.14285715  0.85714287  0.0
+# iControlX = 1 iControlY = 6 iControlZ = 1
+0.14285715  0.85714287  0.14285715
+# iControlX = 1 iControlY = 6 iControlZ = 2
+0.14285715  0.85714287  0.2857143
+# iControlX = 1 iControlY = 6 iControlZ = 3
+0.14285715  0.85714287  0.42857143
+# iControlX = 1 iControlY = 6 iControlZ = 4
+0.14285715  0.85714287  0.5714286
+# iControlX = 1 iControlY = 6 iControlZ = 5
+0.14285715  0.85714287  0.71428573
+# iControlX = 1 iControlY = 6 iControlZ = 6
+0.14285715  0.85714287  0.85714287
+# iControlX = 1 iControlY = 6 iControlZ = 7
+0.14285715  0.85714287  1.0
+# iControlX = 1 iControlY = 7 iControlZ = 0
+0.14285715  1.0  0.0
+# iControlX = 1 iControlY = 7 iControlZ = 1
+0.14285715  1.0  0.14285715
+# iControlX = 1 iControlY = 7 iControlZ = 2
+0.14285715  1.0  0.2857143
+# iControlX = 1 iControlY = 7 iControlZ = 3
+0.14285715  1.0  0.42857143
+# iControlX = 1 iControlY = 7 iControlZ = 4
+0.14285715  1.0  0.5714286
+# iControlX = 1 iControlY = 7 iControlZ = 5
+0.14285715  1.0  0.71428573
+# iControlX = 1 iControlY = 7 iControlZ = 6
+0.14285715  1.0  0.85714287
+# iControlX = 1 iControlY = 7 iControlZ = 7
+0.14285715  1.0  1.0
+# iControlX = 2 iControlY = 0 iControlZ = 0
+0.2857143  0.0  0.0
+# iControlX = 2 iControlY = 0 iControlZ = 1
+0.2857143  0.0  0.14285715
+# iControlX = 2 iControlY = 0 iControlZ = 2
+0.2857143  0.0  0.2857143
+# iControlX = 2 iControlY = 0 iControlZ = 3
+0.2857143  0.0  0.42857143
+# iControlX = 2 iControlY = 0 iControlZ = 4
+0.2857143  0.0  0.5714286
+# iControlX = 2 iControlY = 0 iControlZ = 5
+0.2857143  0.0  0.71428573
+# iControlX = 2 iControlY = 0 iControlZ = 6
+0.2857143  0.0  0.85714287
+# iControlX = 2 iControlY = 0 iControlZ = 7
+0.2857143  0.0  1.0
+# iControlX = 2 iControlY = 1 iControlZ = 0
+0.2857143  0.14285715  0.0
+# iControlX = 2 iControlY = 1 iControlZ = 1
+0.2857143  0.14285715  0.14285715
+# iControlX = 2 iControlY = 1 iControlZ = 2
+0.2857143  0.14285715  0.2857143
+# iControlX = 2 iControlY = 1 iControlZ = 3
+0.2857143  0.14285715  0.42857143
+# iControlX = 2 iControlY = 1 iControlZ = 4
+0.2857143  0.14285715  0.5714286
+# iControlX = 2 iControlY = 1 iControlZ = 5
+0.2857143  0.14285715  0.71428573
+# iControlX = 2 iControlY = 1 iControlZ = 6
+0.2857143  0.14285715  0.85714287
+# iControlX = 2 iControlY = 1 iControlZ = 7
+0.2857143  0.14285715  1.0
+# iControlX = 2 iControlY = 2 iControlZ = 0
+0.2857143  0.2857143  0.0
+# iControlX = 2 iControlY = 2 iControlZ = 1
+0.23185448  0.22679283  0.12564233
+# iControlX = 2 iControlY = 2 iControlZ = 2
+0.2955489  0.2927584  0.31677508
+# iControlX = 2 iControlY = 2 iControlZ = 3
+0.2697623  0.27296317  0.421
+# iControlX = 2 iControlY = 2 iControlZ = 4
+0.25413346  0.29501075  0.575073
+# iControlX = 2 iControlY = 2 iControlZ = 5
+0.28696242  0.28311482  0.7176346
+# iControlX = 2 iControlY = 2 iControlZ = 6
+0.23823877  0.27456033  0.8391455
+# iControlX = 2 iControlY = 2 iControlZ = 7
+0.2857143  0.2857143  1.0
+# iControlX = 2 iControlY = 3 iControlZ = 0
+0.2857143  0.42857143  0.0
+# iControlX = 2 iControlY = 3 iControlZ = 1
+0.2568512  0.36259958  0.10405306
+# iControlX = 2 iControlY = 3 iControlZ = 2
+0.30146745  0.4270327  0.32425755
+# iControlX = 2 iControlY = 3 iControlZ = 3
+0.25327542  0.42457414  0.42057544
+# iControlX = 2 iControlY = 3 iControlZ = 4
+0.28550702  0.43413076  0.5769179
+# iControlX = 2 iControlY = 3 iControlZ = 5
+0.27737325  0.42404023  0.728004
+# iControlX = 2 iControlY = 3 iControlZ = 6
+0.21814385  0.3891827  0.8337904
+# iControlX = 2 iControlY = 3 iControlZ = 7
+0.2857143  0.42857143  1.0
+# iControlX = 2 iControlY = 4 iControlZ = 0
+0.2857143  0.5714286  0.0
+# iControlX = 2 iControlY = 4 iControlZ = 1
+0.2158014  0.5353071  0.12972343
+# iControlX = 2 iControlY = 4 iControlZ = 2
+0.2858692  0.5513986  0.27998695
+# iControlX = 2 iControlY = 4 iControlZ = 3
+0.28268513  0.61279494  0.4246013
+# iControlX = 2 iControlY = 4 iControlZ = 4
+0.268261  0.60417235  0.57649267
+# iControlX = 2 iControlY = 4 iControlZ = 5
+0.28256804  0.5342291  0.7107433
+# iControlX = 2 iControlY = 4 iControlZ = 6
+0.2848134  0.5495308  0.85029703
+# iControlX = 2 iControlY = 4 iControlZ = 7
+0.2857143  0.5714286  1.0
+# iControlX = 2 iControlY = 5 iControlZ = 0
+0.2857143  0.71428573  0.0
+# iControlX = 2 iControlY = 5 iControlZ = 1
+0.2857143  0.71428573  0.14285715
+# iControlX = 2 iControlY = 5 iControlZ = 2
+0.2857143  0.71428573  0.2857143
+# iControlX = 2 iControlY = 5 iControlZ = 3
+0.2857143  0.71428573  0.42857143
+# iControlX = 2 iControlY = 5 iControlZ = 4
+0.2857143  0.71428573  0.5714286
+# iControlX = 2 iControlY = 5 iControlZ = 5
+0.2857143  0.71428573  0.71428573
+# iControlX = 2 iControlY = 5 iControlZ = 6
+0.2857143  0.71428573  0.85714287
+# iControlX = 2 iControlY = 5 iControlZ = 7
+0.2857143  0.71428573  1.0
+# iControlX = 2 iControlY = 6 iControlZ = 0
+0.2857143  0.85714287  0.0
+# iControlX = 2 iControlY = 6 iControlZ = 1
+0.2857143  0.85714287  0.14285715
+# iControlX = 2 iControlY = 6 iControlZ = 2
+0.2857143  0.85714287  0.2857143
+# iControlX = 2 iControlY = 6 iControlZ = 3
+0.2857143  0.85714287  0.42857143
+# iControlX = 2 iControlY = 6 iControlZ = 4
+0.2857143  0.85714287  0.5714286
+# iControlX = 2 iControlY = 6 iControlZ = 5
+0.2857143  0.85714287  0.71428573
+# iControlX = 2 iControlY = 6 iControlZ = 6
+0.2857143  0.85714287  0.85714287
+# iControlX = 2 iControlY = 6 iControlZ = 7
+0.2857143  0.85714287  1.0
+# iControlX = 2 iControlY = 7 iControlZ = 0
+0.2857143  1.0  0.0
+# iControlX = 2 iControlY = 7 iControlZ = 1
+0.2857143  1.0  0.14285715
+# iControlX = 2 iControlY = 7 iControlZ = 2
+0.2857143  1.0  0.2857143
+# iControlX = 2 iControlY = 7 iControlZ = 3
+0.2857143  1.0  0.42857143
+# iControlX = 2 iControlY = 7 iControlZ = 4
+0.2857143  1.0  0.5714286
+# iControlX = 2 iControlY = 7 iControlZ = 5
+0.2857143  1.0  0.71428573
+# iControlX = 2 iControlY = 7 iControlZ = 6
+0.2857143  1.0  0.85714287
+# iControlX = 2 iControlY = 7 iControlZ = 7
+0.2857143  1.0  1.0
+# iControlX = 3 iControlY = 0 iControlZ = 0
+0.42857143  0.0  0.0
+# iControlX = 3 iControlY = 0 iControlZ = 1
+0.42857143  0.0  0.14285715
+# iControlX = 3 iControlY = 0 iControlZ = 2
+0.42857143  0.0  0.2857143
+# iControlX = 3 iControlY = 0 iControlZ = 3
+0.42857143  0.0  0.42857143
+# iControlX = 3 iControlY = 0 iControlZ = 4
+0.42857143  0.0  0.5714286
+# iControlX = 3 iControlY = 0 iControlZ = 5
+0.42857143  0.0  0.71428573
+# iControlX = 3 iControlY = 0 iControlZ = 6
+0.42857143  0.0  0.85714287
+# iControlX = 3 iControlY = 0 iControlZ = 7
+0.42857143  0.0  1.0
+# iControlX = 3 iControlY = 1 iControlZ = 0
+0.42857143  0.14285715  0.0
+# iControlX = 3 iControlY = 1 iControlZ = 1
+0.37593037  0.19120422  0.112631306
+# iControlX = 3 iControlY = 1 iControlZ = 2
+0.42857143  0.14285715  0.2857143
+# iControlX = 3 iControlY = 1 iControlZ = 3
+0.42125767  0.1838752  0.42894518
+# iControlX = 3 iControlY = 1 iControlZ = 4
+0.39642945  0.16937119  0.5715295
+# iControlX = 3 iControlY = 1 iControlZ = 5
+0.40677756  0.17715937  0.70509356
+# iControlX = 3 iControlY = 1 iControlZ = 6
+0.42857143  0.14285715  0.85714287
+# iControlX = 3 iControlY = 1 iControlZ = 7
+0.42857143  0.14285715  1.0
+# iControlX = 3 iControlY = 2 iControlZ = 0
+0.42857143  0.2857143  0.0
+# iControlX = 3 iControlY = 2 iControlZ = 1
+0.36716327  0.2382435  0.11302319
+# iControlX = 3 iControlY = 2 iControlZ = 2
+0.37111238  0.23759468  0.2535076
+# iControlX = 3 iControlY = 2 iControlZ = 3
+0.39929926  0.23059586  0.37592968
+# iControlX = 3 iControlY = 2 iControlZ = 4
+0.39623585  0.21391971  0.5726012
+# iControlX = 3 iControlY = 2 iControlZ = 5
+0.41571584  0.20704268  0.7134905
+# iControlX = 3 iControlY = 2 iControlZ = 6
+0.37115043  0.22936174  0.83643776
+# iControlX = 3 iControlY = 2 iControlZ = 7
+0.42857143  0.2857143  1.0
+# iControlX = 3 iControlY = 3 iControlZ = 0
+0.42857143  0.42857143  0.0
+# iControlX = 3 iControlY = 3 iControlZ = 1
+0.3675912  0.38412452  0.10756789
+# iControlX = 3 iControlY = 3 iControlZ = 2
+0.36579376  0.38573065  0.2523784
+# iControlX = 3 iControlY = 3 iControlZ = 3
+0.38178498  0.42510986  0.3600704
+# iControlX = 3 iControlY = 3 iControlZ = 4
+0.3468044  0.437553  0.5624922
+# iControlX = 3 iControlY = 3 iControlZ = 5
+0.34699893  0.43983498  0.72667736
+# iControlX = 3 iControlY = 3 iControlZ = 6
+0.34943116  0.40640336  0.8461653
+# iControlX = 3 iControlY = 3 iControlZ = 7
+0.42857143  0.42857143  1.0
+# iControlX = 3 iControlY = 4 iControlZ = 0
+0.42857143  0.5714286  0.0
+# iControlX = 3 iControlY = 4 iControlZ = 1
+0.3980793  0.54472905  0.13318886
+# iControlX = 3 iControlY = 4 iControlZ = 2
+0.3531183  0.5853774  0.27625364
+# iControlX = 3 iControlY = 4 iControlZ = 3
+0.3908486  0.6283294  0.38157457
+# iControlX = 3 iControlY = 4 iControlZ = 4
+0.3765387  0.6353151  0.5655869
+# iControlX = 3 iControlY = 4 iControlZ = 5
+0.3734107  0.61571324  0.71326417
+# iControlX = 3 iControlY = 4 iControlZ = 6
+0.3565749  0.5444556  0.8286855
+# iControlX = 3 iControlY = 4 iControlZ = 7
+0.42857143  0.5714286  1.0
+# iControlX = 3 iControlY = 5 iControlZ = 0
+0.42857143  0.71428573  0.0
+# iControlX = 3 iControlY = 5 iControlZ = 1
+0.38603985  0.6525469  0.10879617
+# iControlX = 3 iControlY = 5 iControlZ = 2
+0.42857143  0.71428573  0.2857143
+# iControlX = 3 iControlY = 5 iControlZ = 3
+0.42857143  0.7071374  0.43285468
+# iControlX = 3 iControlY = 5 iControlZ = 4
+0.42780682  0.71538085  0.5753754
+# iControlX = 3 iControlY = 5 iControlZ = 5
+0.42440477  0.71428573  0.71428573
+# iControlX = 3 iControlY = 5 iControlZ = 6
+0.42857143  0.71428573  0.85714287
+# iControlX = 3 iControlY = 5 iControlZ = 7
+0.42857143  0.71428573  1.0
+# iControlX = 3 iControlY = 6 iControlZ = 0
+0.42857143  0.85714287  0.0
+# iControlX = 3 iControlY = 6 iControlZ = 1
+0.42857143  0.85714287  0.14285715
+# iControlX = 3 iControlY = 6 iControlZ = 2
+0.42857143  0.85714287  0.2857143
+# iControlX = 3 iControlY = 6 iControlZ = 3
+0.42857143  0.85714287  0.42857143
+# iControlX = 3 iControlY = 6 iControlZ = 4
+0.42857143  0.85714287  0.5714286
+# iControlX = 3 iControlY = 6 iControlZ = 5
+0.42857143  0.85714287  0.71428573
+# iControlX = 3 iControlY = 6 iControlZ = 6
+0.42857143  0.85714287  0.85714287
+# iControlX = 3 iControlY = 6 iControlZ = 7
+0.42857143  0.85714287  1.0
+# iControlX = 3 iControlY = 7 iControlZ = 0
+0.42857143  1.0  0.0
+# iControlX = 3 iControlY = 7 iControlZ = 1
+0.42857143  1.0  0.14285715
+# iControlX = 3 iControlY = 7 iControlZ = 2
+0.42857143  1.0  0.2857143
+# iControlX = 3 iControlY = 7 iControlZ = 3
+0.42857143  1.0  0.42857143
+# iControlX = 3 iControlY = 7 iControlZ = 4
+0.42857143  1.0  0.5714286
+# iControlX = 3 iControlY = 7 iControlZ = 5
+0.42857143  1.0  0.71428573
+# iControlX = 3 iControlY = 7 iControlZ = 6
+0.42857143  1.0  0.85714287
+# iControlX = 3 iControlY = 7 iControlZ = 7
+0.42857143  1.0  1.0
+# iControlX = 4 iControlY = 0 iControlZ = 0
+0.5714286  0.0  0.0
+# iControlX = 4 iControlY = 0 iControlZ = 1
+0.5714286  0.0  0.14285715
+# iControlX = 4 iControlY = 0 iControlZ = 2
+0.5714286  0.0  0.2857143
+# iControlX = 4 iControlY = 0 iControlZ = 3
+0.5714286  0.0  0.42857143
+# iControlX = 4 iControlY = 0 iControlZ = 4
+0.5714286  0.0  0.5714286
+# iControlX = 4 iControlY = 0 iControlZ = 5
+0.5714286  0.0  0.71428573
+# iControlX = 4 iControlY = 0 iControlZ = 6
+0.5714286  0.0  0.85714287
+# iControlX = 4 iControlY = 0 iControlZ = 7
+0.5714286  0.0  1.0
+# iControlX = 4 iControlY = 1 iControlZ = 0
+0.5714286  0.14285715  0.0
+# iControlX = 4 iControlY = 1 iControlZ = 1
+0.56205153  0.103289515  0.10959991
+# iControlX = 4 iControlY = 1 iControlZ = 2
+0.5714286  0.14285715  0.2857143
+# iControlX = 4 iControlY = 1 iControlZ = 3
+0.6089958  0.12483581  0.42835617
+# iControlX = 4 iControlY = 1 iControlZ = 4
+0.5630957  0.14279018  0.57147664
+# iControlX = 4 iControlY = 1 iControlZ = 5
+0.5422255  0.17252593  0.7125382
+# iControlX = 4 iControlY = 1 iControlZ = 6
+0.5714286  0.14285715  0.85714287
+# iControlX = 4 iControlY = 1 iControlZ = 7
+0.5714286  0.14285715  1.0
+# iControlX = 4 iControlY = 2 iControlZ = 0
+0.5714286  0.2857143  0.0
+# iControlX = 4 iControlY = 2 iControlZ = 1
+0.51068926  0.23515816  0.1192832
+# iControlX = 4 iControlY = 2 iControlZ = 2
+0.52332926  0.22697264  0.25435677
+# iControlX = 4 iControlY = 2 iControlZ = 3
+0.5827575  0.22208393  0.37740904
+# iControlX = 4 iControlY = 2 iControlZ = 4
+0.58942145  0.20447044  0.56877214
+# iControlX = 4 iControlY = 2 iControlZ = 5
+0.5948787  0.20717715  0.71366966
+# iControlX = 4 iControlY = 2 iControlZ = 6
+0.5367839  0.21387719  0.8434733
+# iControlX = 4 iControlY = 2 iControlZ = 7
+0.5714286  0.2857143  1.0
+# iControlX = 4 iControlY = 3 iControlZ = 0
+0.5714286  0.42857143  0.0
+# iControlX = 4 iControlY = 3 iControlZ = 1
+0.5213228  0.36353254  0.12917963
+# iControlX = 4 iControlY = 3 iControlZ = 2
+0.5207269  0.36492738  0.2942791
+# iControlX = 4 iControlY = 3 iControlZ = 3
+0.59060806  0.423723  0.34793463
+# iControlX = 4 iControlY = 3 iControlZ = 4
+0.63785625  0.39871493  0.5312553
+# iControlX = 4 iControlY = 3 iControlZ = 5
+0.6532235  0.41970006  0.71452695
+# iControlX = 4 iControlY = 3 iControlZ = 6
+0.51760143  0.36717105  0.84649694
+# iControlX = 4 iControlY = 3 iControlZ = 7
+0.5714286  0.42857143  1.0
+# iControlX = 4 iControlY = 4 iControlZ = 0
+0.5714286  0.5714286  0.0
+# iControlX = 4 iControlY = 4 iControlZ = 1
+0.5132804  0.56410486  0.12692821
+# iControlX = 4 iControlY = 4 iControlZ = 2
+0.5597221  0.64074993  0.32554114
+# iControlX = 4 iControlY = 4 iControlZ = 3
+0.57158417  0.64509547  0.38972986
+# iControlX = 4 iControlY = 4 iControlZ = 4
+0.5875141  0.65192807  0.5611847
+# iControlX = 4 iControlY = 4 iControlZ = 5
+0.59067255  0.65243465  0.7175275
+# iControlX = 4 iControlY = 4 iControlZ = 6
+0.51401377  0.61852944  0.844145
+# iControlX = 4 iControlY = 4 iControlZ = 7
+0.5714286  0.5714286  1.0
+# iControlX = 4 iControlY = 5 iControlZ = 0
+0.5714286  0.71428573  0.0
+# iControlX = 4 iControlY = 5 iControlZ = 1
+0.5034929  0.7056482  0.1299252
+# iControlX = 4 iControlY = 5 iControlZ = 2
+0.5741655  0.75586  0.28616592
+# iControlX = 4 iControlY = 5 iControlZ = 3
+0.5714286  0.71428573  0.42857143
+# iControlX = 4 iControlY = 5 iControlZ = 4
+0.5714286  0.71428573  0.5714286
+# iControlX = 4 iControlY = 5 iControlZ = 5
+0.5714286  0.71428573  0.71428573
+# iControlX = 4 iControlY = 5 iControlZ = 6
+0.5714286  0.71428573  0.85714287
+# iControlX = 4 iControlY = 5 iControlZ = 7
+0.5714286  0.71428573  1.0
+# iControlX = 4 iControlY = 6 iControlZ = 0
+0.5714286  0.85714287  0.0
+# iControlX = 4 iControlY = 6 iControlZ = 1
+0.5714286  0.85714287  0.14285715
+# iControlX = 4 iControlY = 6 iControlZ = 2
+0.5714286  0.85714287  0.2857143
+# iControlX = 4 iControlY = 6 iControlZ = 3
+0.5714286  0.85714287  0.42857143
+# iControlX = 4 iControlY = 6 iControlZ = 4
+0.5714286  0.85714287  0.5714286
+# iControlX = 4 iControlY = 6 iControlZ = 5
+0.5714286  0.85714287  0.71428573
+# iControlX = 4 iControlY = 6 iControlZ = 6
+0.5714286  0.85714287  0.85714287
+# iControlX = 4 iControlY = 6 iControlZ = 7
+0.5714286  0.85714287  1.0
+# iControlX = 4 iControlY = 7 iControlZ = 0
+0.5714286  1.0  0.0
+# iControlX = 4 iControlY = 7 iControlZ = 1
+0.5714286  1.0  0.14285715
+# iControlX = 4 iControlY = 7 iControlZ = 2
+0.5714286  1.0  0.2857143
+# iControlX = 4 iControlY = 7 iControlZ = 3
+0.5714286  1.0  0.42857143
+# iControlX = 4 iControlY = 7 iControlZ = 4
+0.5714286  1.0  0.5714286
+# iControlX = 4 iControlY = 7 iControlZ = 5
+0.5714286  1.0  0.71428573
+# iControlX = 4 iControlY = 7 iControlZ = 6
+0.5714286  1.0  0.85714287
+# iControlX = 4 iControlY = 7 iControlZ = 7
+0.5714286  1.0  1.0
+# iControlX = 5 iControlY = 0 iControlZ = 0
+0.71428573  0.0  0.0
+# iControlX = 5 iControlY = 0 iControlZ = 1
+0.71428573  0.0  0.14285715
+# iControlX = 5 iControlY = 0 iControlZ = 2
+0.71428573  0.0  0.2857143
+# iControlX = 5 iControlY = 0 iControlZ = 3
+0.71428573  0.0  0.42857143
+# iControlX = 5 iControlY = 0 iControlZ = 4
+0.71428573  0.0  0.5714286
+# iControlX = 5 iControlY = 0 iControlZ = 5
+0.71428573  0.0  0.71428573
+# iControlX = 5 iControlY = 0 iControlZ = 6
+0.71428573  0.0  0.85714287
+# iControlX = 5 iControlY = 0 iControlZ = 7
+0.71428573  0.0  1.0
+# iControlX = 5 iControlY = 1 iControlZ = 0
+0.71428573  0.14285715  0.0
+# iControlX = 5 iControlY = 1 iControlZ = 1
+0.71428573  0.14285715  0.14285715
+# iControlX = 5 iControlY = 1 iControlZ = 2
+0.71428573  0.14285715  0.2857143
+# iControlX = 5 iControlY = 1 iControlZ = 3
+0.71428573  0.14285715  0.42857143
+# iControlX = 5 iControlY = 1 iControlZ = 4
+0.71428573  0.14285715  0.5714286
+# iControlX = 5 iControlY = 1 iControlZ = 5
+0.71428573  0.14285715  0.71428573
+# iControlX = 5 iControlY = 1 iControlZ = 6
+0.71428573  0.14285715  0.85714287
+# iControlX = 5 iControlY = 1 iControlZ = 7
+0.71428573  0.14285715  1.0
+# iControlX = 5 iControlY = 2 iControlZ = 0
+0.71428573  0.2857143  0.0
+# iControlX = 5 iControlY = 2 iControlZ = 1
+0.66680133  0.22485226  0.11920872
+# iControlX = 5 iControlY = 2 iControlZ = 2
+0.6910638  0.25123227  0.28291383
+# iControlX = 5 iControlY = 2 iControlZ = 3
+0.74850166  0.26490557  0.4170658
+# iControlX = 5 iControlY = 2 iControlZ = 4
+0.7856039  0.24273208  0.56902736
+# iControlX = 5 iControlY = 2 iControlZ = 5
+0.7579409  0.21720086  0.72511655
+# iControlX = 5 iControlY = 2 iControlZ = 6
+0.6931569  0.25143805  0.84642726
+# iControlX = 5 iControlY = 2 iControlZ = 7
+0.71428573  0.2857143  1.0
+# iControlX = 5 iControlY = 3 iControlZ = 0
+0.71428573  0.42857143  0.0
+# iControlX = 5 iControlY = 3 iControlZ = 1
+0.68716115  0.3616905  0.115374945
+# iControlX = 5 iControlY = 3 iControlZ = 2
+0.71563625  0.3744645  0.24569365
+# iControlX = 5 iControlY = 3 iControlZ = 3
+0.7859527  0.4243045  0.38667172
+# iControlX = 5 iControlY = 3 iControlZ = 4
+0.79754674  0.43036446  0.5695587
+# iControlX = 5 iControlY = 3 iControlZ = 5
+0.7969333  0.41920155  0.7166442
+# iControlX = 5 iControlY = 3 iControlZ = 6
+0.78030634  0.39372763  0.84880626
+# iControlX = 5 iControlY = 3 iControlZ = 7
+0.71428573  0.42857143  1.0
+# iControlX = 5 iControlY = 4 iControlZ = 0
+0.71428573  0.5714286  0.0
+# iControlX = 5 iControlY = 4 iControlZ = 1
+0.7551703  0.55007005  0.13704756
+# iControlX = 5 iControlY = 4 iControlZ = 2
+0.7796804  0.5589181  0.2847118
+# iControlX = 5 iControlY = 4 iControlZ = 3
+0.77809465  0.61638707  0.39982978
+# iControlX = 5 iControlY = 4 iControlZ = 4
+0.79159623  0.6020855  0.5669611
+# iControlX = 5 iControlY = 4 iControlZ = 5
+0.78558797  0.6132126  0.7202203
+# iControlX = 5 iControlY = 4 iControlZ = 6
+0.6838697  0.53990996  0.80078614
+# iControlX = 5 iControlY = 4 iControlZ = 7
+0.71428573  0.5714286  1.0
+# iControlX = 5 iControlY = 5 iControlZ = 0
+0.71428573  0.71428573  0.0
+# iControlX = 5 iControlY = 5 iControlZ = 1
+0.7156368  0.67340696  0.15080771
+# iControlX = 5 iControlY = 5 iControlZ = 2
+0.71428573  0.71428573  0.2857143
+# iControlX = 5 iControlY = 5 iControlZ = 3
+0.71428573  0.71428573  0.42857143
+# iControlX = 5 iControlY = 5 iControlZ = 4
+0.71428573  0.71428573  0.5714286
+# iControlX = 5 iControlY = 5 iControlZ = 5
+0.71428573  0.71428573  0.71428573
+# iControlX = 5 iControlY = 5 iControlZ = 6
+0.71428573  0.71428573  0.85714287
+# iControlX = 5 iControlY = 5 iControlZ = 7
+0.71428573  0.71428573  1.0
+# iControlX = 5 iControlY = 6 iControlZ = 0
+0.71428573  0.85714287  0.0
+# iControlX = 5 iControlY = 6 iControlZ = 1
+0.71428573  0.85714287  0.14285715
+# iControlX = 5 iControlY = 6 iControlZ = 2
+0.71428573  0.85714287  0.2857143
+# iControlX = 5 iControlY = 6 iControlZ = 3
+0.71428573  0.85714287  0.42857143
+# iControlX = 5 iControlY = 6 iControlZ = 4
+0.71428573  0.85714287  0.5714286
+# iControlX = 5 iControlY = 6 iControlZ = 5
+0.71428573  0.85714287  0.71428573
+# iControlX = 5 iControlY = 6 iControlZ = 6
+0.71428573  0.85714287  0.85714287
+# iControlX = 5 iControlY = 6 iControlZ = 7
+0.71428573  0.85714287  1.0
+# iControlX = 5 iControlY = 7 iControlZ = 0
+0.71428573  1.0  0.0
+# iControlX = 5 iControlY = 7 iControlZ = 1
+0.71428573  1.0  0.14285715
+# iControlX = 5 iControlY = 7 iControlZ = 2
+0.71428573  1.0  0.2857143
+# iControlX = 5 iControlY = 7 iControlZ = 3
+0.71428573  1.0  0.42857143
+# iControlX = 5 iControlY = 7 iControlZ = 4
+0.71428573  1.0  0.5714286
+# iControlX = 5 iControlY = 7 iControlZ = 5
+0.71428573  1.0  0.71428573
+# iControlX = 5 iControlY = 7 iControlZ = 6
+0.71428573  1.0  0.85714287
+# iControlX = 5 iControlY = 7 iControlZ = 7
+0.71428573  1.0  1.0
+# iControlX = 6 iControlY = 0 iControlZ = 0
+0.85714287  0.0  0.0
+# iControlX = 6 iControlY = 0 iControlZ = 1
+0.85714287  0.0  0.14285715
+# iControlX = 6 iControlY = 0 iControlZ = 2
+0.85714287  0.0  0.2857143
+# iControlX = 6 iControlY = 0 iControlZ = 3
+0.85714287  0.0  0.42857143
+# iControlX = 6 iControlY = 0 iControlZ = 4
+0.85714287  0.0  0.5714286
+# iControlX = 6 iControlY = 0 iControlZ = 5
+0.85714287  0.0  0.71428573
+# iControlX = 6 iControlY = 0 iControlZ = 6
+0.85714287  0.0  0.85714287
+# iControlX = 6 iControlY = 0 iControlZ = 7
+0.85714287  0.0  1.0
+# iControlX = 6 iControlY = 1 iControlZ = 0
+0.85714287  0.14285715  0.0
+# iControlX = 6 iControlY = 1 iControlZ = 1
+0.85714287  0.14285715  0.14285715
+# iControlX = 6 iControlY = 1 iControlZ = 2
+0.85714287  0.14285715  0.2857143
+# iControlX = 6 iControlY = 1 iControlZ = 3
+0.85714287  0.14285715  0.42857143
+# iControlX = 6 iControlY = 1 iControlZ = 4
+0.85714287  0.14285715  0.5714286
+# iControlX = 6 iControlY = 1 iControlZ = 5
+0.85714287  0.14285715  0.71428573
+# iControlX = 6 iControlY = 1 iControlZ = 6
+0.85714287  0.14285715  0.85714287
+# iControlX = 6 iControlY = 1 iControlZ = 7
+0.85714287  0.14285715  1.0
+# iControlX = 6 iControlY = 2 iControlZ = 0
+0.85714287  0.2857143  0.0
+# iControlX = 6 iControlY = 2 iControlZ = 1
+0.816116  0.27385306  0.14524002
+# iControlX = 6 iControlY = 2 iControlZ = 2
+0.85714287  0.2857143  0.2857143
+# iControlX = 6 iControlY = 2 iControlZ = 3
+0.85714287  0.2857143  0.42857143
+# iControlX = 6 iControlY = 2 iControlZ = 4
+0.85714287  0.2857143  0.5714286
+# iControlX = 6 iControlY = 2 iControlZ = 5
+0.85714287  0.2857143  0.71428573
+# iControlX = 6 iControlY = 2 iControlZ = 6
+0.85714287  0.2857143  0.85714287
+# iControlX = 6 iControlY = 2 iControlZ = 7
+0.85714287  0.2857143  1.0
+# iControlX = 6 iControlY = 3 iControlZ = 0
+0.85714287  0.42857143  0.0
+# iControlX = 6 iControlY = 3 iControlZ = 1
+0.80763435  0.45185658  0.1325249
+# iControlX = 6 iControlY = 3 iControlZ = 2
+0.85714287  0.42857143  0.2857143
+# iControlX = 6 iControlY = 3 iControlZ = 3
+0.85714287  0.42857143  0.42857143
+# iControlX = 6 iControlY = 3 iControlZ = 4
+0.85714287  0.42857143  0.5714286
+# iControlX = 6 iControlY = 3 iControlZ = 5
+0.85714287  0.42857143  0.71428573
+# iControlX = 6 iControlY = 3 iControlZ = 6
+0.85714287  0.42857143  0.85714287
+# iControlX = 6 iControlY = 3 iControlZ = 7
+0.85714287  0.42857143  1.0
+# iControlX = 6 iControlY = 4 iControlZ = 0
+0.85714287  0.5714286  0.0
+# iControlX = 6 iControlY = 4 iControlZ = 1
+0.85714287  0.5714286  0.14285715
+# iControlX = 6 iControlY = 4 iControlZ = 2
+0.85714287  0.5714286  0.2857143
+# iControlX = 6 iControlY = 4 iControlZ = 3
+0.85714287  0.5714286  0.42857143
+# iControlX = 6 iControlY = 4 iControlZ = 4
+0.85714287  0.5714286  0.5714286
+# iControlX = 6 iControlY = 4 iControlZ = 5
+0.85714287  0.5714286  0.71428573
+# iControlX = 6 iControlY = 4 iControlZ = 6
+0.85714287  0.5714286  0.85714287
+# iControlX = 6 iControlY = 4 iControlZ = 7
+0.85714287  0.5714286  1.0
+# iControlX = 6 iControlY = 5 iControlZ = 0
+0.85714287  0.71428573  0.0
+# iControlX = 6 iControlY = 5 iControlZ = 1
+0.85714287  0.71428573  0.14285715
+# iControlX = 6 iControlY = 5 iControlZ = 2
+0.85714287  0.71428573  0.2857143
+# iControlX = 6 iControlY = 5 iControlZ = 3
+0.85714287  0.71428573  0.42857143
+# iControlX = 6 iControlY = 5 iControlZ = 4
+0.85714287  0.71428573  0.5714286
+# iControlX = 6 iControlY = 5 iControlZ = 5
+0.85714287  0.71428573  0.71428573
+# iControlX = 6 iControlY = 5 iControlZ = 6
+0.85714287  0.71428573  0.85714287
+# iControlX = 6 iControlY = 5 iControlZ = 7
+0.85714287  0.71428573  1.0
+# iControlX = 6 iControlY = 6 iControlZ = 0
+0.85714287  0.85714287  0.0
+# iControlX = 6 iControlY = 6 iControlZ = 1
+0.85714287  0.85714287  0.14285715
+# iControlX = 6 iControlY = 6 iControlZ = 2
+0.85714287  0.85714287  0.2857143
+# iControlX = 6 iControlY = 6 iControlZ = 3
+0.85714287  0.85714287  0.42857143
+# iControlX = 6 iControlY = 6 iControlZ = 4
+0.85714287  0.85714287  0.5714286
+# iControlX = 6 iControlY = 6 iControlZ = 5
+0.85714287  0.85714287  0.71428573
+# iControlX = 6 iControlY = 6 iControlZ = 6
+0.85714287  0.85714287  0.85714287
+# iControlX = 6 iControlY = 6 iControlZ = 7
+0.85714287  0.85714287  1.0
+# iControlX = 6 iControlY = 7 iControlZ = 0
+0.85714287  1.0  0.0
+# iControlX = 6 iControlY = 7 iControlZ = 1
+0.85714287  1.0  0.14285715
+# iControlX = 6 iControlY = 7 iControlZ = 2
+0.85714287  1.0  0.2857143
+# iControlX = 6 iControlY = 7 iControlZ = 3
+0.85714287  1.0  0.42857143
+# iControlX = 6 iControlY = 7 iControlZ = 4
+0.85714287  1.0  0.5714286
+# iControlX = 6 iControlY = 7 iControlZ = 5
+0.85714287  1.0  0.71428573
+# iControlX = 6 iControlY = 7 iControlZ = 6
+0.85714287  1.0  0.85714287
+# iControlX = 6 iControlY = 7 iControlZ = 7
+0.85714287  1.0  1.0
+# iControlX = 7 iControlY = 0 iControlZ = 0
+1.0  0.0  0.0
+# iControlX = 7 iControlY = 0 iControlZ = 1
+1.0  0.0  0.14285715
+# iControlX = 7 iControlY = 0 iControlZ = 2
+1.0  0.0  0.2857143
+# iControlX = 7 iControlY = 0 iControlZ = 3
+1.0  0.0  0.42857143
+# iControlX = 7 iControlY = 0 iControlZ = 4
+1.0  0.0  0.5714286
+# iControlX = 7 iControlY = 0 iControlZ = 5
+1.0  0.0  0.71428573
+# iControlX = 7 iControlY = 0 iControlZ = 6
+1.0  0.0  0.85714287
+# iControlX = 7 iControlY = 0 iControlZ = 7
+1.0  0.0  1.0
+# iControlX = 7 iControlY = 1 iControlZ = 0
+1.0  0.14285715  0.0
+# iControlX = 7 iControlY = 1 iControlZ = 1
+1.0  0.14285715  0.14285715
+# iControlX = 7 iControlY = 1 iControlZ = 2
+1.0  0.14285715  0.2857143
+# iControlX = 7 iControlY = 1 iControlZ = 3
+1.0  0.14285715  0.42857143
+# iControlX = 7 iControlY = 1 iControlZ = 4
+1.0  0.14285715  0.5714286
+# iControlX = 7 iControlY = 1 iControlZ = 5
+1.0  0.14285715  0.71428573
+# iControlX = 7 iControlY = 1 iControlZ = 6
+1.0  0.14285715  0.85714287
+# iControlX = 7 iControlY = 1 iControlZ = 7
+1.0  0.14285715  1.0
+# iControlX = 7 iControlY = 2 iControlZ = 0
+1.0  0.2857143  0.0
+# iControlX = 7 iControlY = 2 iControlZ = 1
+1.0  0.2857143  0.14285715
+# iControlX = 7 iControlY = 2 iControlZ = 2
+1.0  0.2857143  0.2857143
+# iControlX = 7 iControlY = 2 iControlZ = 3
+1.0  0.2857143  0.42857143
+# iControlX = 7 iControlY = 2 iControlZ = 4
+1.0  0.2857143  0.5714286
+# iControlX = 7 iControlY = 2 iControlZ = 5
+1.0  0.2857143  0.71428573
+# iControlX = 7 iControlY = 2 iControlZ = 6
+1.0  0.2857143  0.85714287
+# iControlX = 7 iControlY = 2 iControlZ = 7
+1.0  0.2857143  1.0
+# iControlX = 7 iControlY = 3 iControlZ = 0
+1.0  0.42857143  0.0
+# iControlX = 7 iControlY = 3 iControlZ = 1
+1.0  0.42857143  0.14285715
+# iControlX = 7 iControlY = 3 iControlZ = 2
+1.0  0.42857143  0.2857143
+# iControlX = 7 iControlY = 3 iControlZ = 3
+1.0  0.42857143  0.42857143
+# iControlX = 7 iControlY = 3 iControlZ = 4
+1.0  0.42857143  0.5714286
+# iControlX = 7 iControlY = 3 iControlZ = 5
+1.0  0.42857143  0.71428573
+# iControlX = 7 iControlY = 3 iControlZ = 6
+1.0  0.42857143  0.85714287
+# iControlX = 7 iControlY = 3 iControlZ = 7
+1.0  0.42857143  1.0
+# iControlX = 7 iControlY = 4 iControlZ = 0
+1.0  0.5714286  0.0
+# iControlX = 7 iControlY = 4 iControlZ = 1
+1.0  0.5714286  0.14285715
+# iControlX = 7 iControlY = 4 iControlZ = 2
+1.0  0.5714286  0.2857143
+# iControlX = 7 iControlY = 4 iControlZ = 3
+1.0  0.5714286  0.42857143
+# iControlX = 7 iControlY = 4 iControlZ = 4
+1.0  0.5714286  0.5714286
+# iControlX = 7 iControlY = 4 iControlZ = 5
+1.0  0.5714286  0.71428573
+# iControlX = 7 iControlY = 4 iControlZ = 6
+1.0  0.5714286  0.85714287
+# iControlX = 7 iControlY = 4 iControlZ = 7
+1.0  0.5714286  1.0
+# iControlX = 7 iControlY = 5 iControlZ = 0
+1.0  0.71428573  0.0
+# iControlX = 7 iControlY = 5 iControlZ = 1
+1.0  0.71428573  0.14285715
+# iControlX = 7 iControlY = 5 iControlZ = 2
+1.0  0.71428573  0.2857143
+# iControlX = 7 iControlY = 5 iControlZ = 3
+1.0  0.71428573  0.42857143
+# iControlX = 7 iControlY = 5 iControlZ = 4
+1.0  0.71428573  0.5714286
+# iControlX = 7 iControlY = 5 iControlZ = 5
+1.0  0.71428573  0.71428573
+# iControlX = 7 iControlY = 5 iControlZ = 6
+1.0  0.71428573  0.85714287
+# iControlX = 7 iControlY = 5 iControlZ = 7
+1.0  0.71428573  1.0
+# iControlX = 7 iControlY = 6 iControlZ = 0
+1.0  0.85714287  0.0
+# iControlX = 7 iControlY = 6 iControlZ = 1
+1.0  0.85714287  0.14285715
+# iControlX = 7 iControlY = 6 iControlZ = 2
+1.0  0.85714287  0.2857143
+# iControlX = 7 iControlY = 6 iControlZ = 3
+1.0  0.85714287  0.42857143
+# iControlX = 7 iControlY = 6 iControlZ = 4
+1.0  0.85714287  0.5714286
+# iControlX = 7 iControlY = 6 iControlZ = 5
+1.0  0.85714287  0.71428573
+# iControlX = 7 iControlY = 6 iControlZ = 6
+1.0  0.85714287  0.85714287
+# iControlX = 7 iControlY = 6 iControlZ = 7
+1.0  0.85714287  1.0
+# iControlX = 7 iControlY = 7 iControlZ = 0
+1.0  1.0  0.0
+# iControlX = 7 iControlY = 7 iControlZ = 1
+1.0  1.0  0.14285715
+# iControlX = 7 iControlY = 7 iControlZ = 2
+1.0  1.0  0.2857143
+# iControlX = 7 iControlY = 7 iControlZ = 3
+1.0  1.0  0.42857143
+# iControlX = 7 iControlY = 7 iControlZ = 4
+1.0  1.0  0.5714286
+# iControlX = 7 iControlY = 7 iControlZ = 5
+1.0  1.0  0.71428573
+# iControlX = 7 iControlY = 7 iControlZ = 6
+1.0  1.0  0.85714287
+# iControlX = 7 iControlY = 7 iControlZ = 7
+1.0  1.0  1.0

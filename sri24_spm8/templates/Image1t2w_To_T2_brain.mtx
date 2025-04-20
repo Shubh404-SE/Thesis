@@ -1,0 +1,23 @@
+4
+4
+0.6588391 0.6969627 -0.54016256 -209.17303 
+-0.63563746 0.87807703 0.4912368 112.028534 
+0.4658437 -0.34618405 1.2215778 11.698474 
+0.0 0.0 0.0 1.0 
+
+Have transform parameters
+0
+1.0
+1.0
+1.0
+240
+240
+155
+true
+false
+false
+Using cost function, CORRELATION_RATIO_SMOOTHED, the cost is 0.5284367320107761.
+Some registration settings: 
+X Rotations from -30.0 to 30.0, with a X coarse rate of 15.0 and X fine rate of 6.0.
+Y Rotations from -30.0 to 30.0, with a Y coarse rate of 15.0 and Y fine rate of 6.0.
+Z Rotations from -30.0 to 30.0, with a Z coarse rate of 15.0 and Z fine rate of 6.0.
